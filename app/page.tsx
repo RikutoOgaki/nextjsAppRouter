@@ -1,5 +1,6 @@
 import Link from 'next/link'
 import style from './page.module.scss'
+import { motion } from 'framer-motion'
 import { usePathname } from 'next/navigation'
 
 
